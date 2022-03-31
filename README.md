@@ -90,19 +90,6 @@
 
 
 
-
-<p align="center">
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-nit&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-
-
-
-
-
-
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
 
 🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
@@ -120,21 +107,14 @@
 
 
 ### Wanna know more? Connect me on:
-
-<a href="https://twitter.com/Abhishe08346491" target="_blank">
+<a href="https://twitter.com/" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/" target="_blank">
+<a href="https://www.linkedin.com/in/krishna-nit/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/abhi.sensharma" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/abhisheks008" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a> 
-<a href = "mailto:sharma.abhishek1282000@gmail.com" target = "_blank">
+<a href = "mailto:krish30jan@gmail.com" target = "_blank">
 <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-</div>  
+  
 
