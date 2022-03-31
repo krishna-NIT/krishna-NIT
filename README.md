@@ -3,7 +3,7 @@
 
 # Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
 
-<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="300px" align="right"/>
+<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="250px" align="right"/>
 
 
 - 👩‍🎓 I’m currently a Pre-final Year Computer Science and Engineering Undergraduate at NIT Raipur
@@ -144,11 +144,6 @@ Wanna know more? follow me on my socials:
 
 
 
-
-
-
-<!-- Profile View Count and GitStats -->
-[![Github](https://img.shields.io/badge/-krishna-nit-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/krishna-nit)
 
 
 
