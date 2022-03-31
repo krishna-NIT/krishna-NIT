@@ -1,80 +1,9 @@
 ![Purple Modern Business Business Development Linkedin Banner Cover](https://user-images.githubusercontent.com/73196470/161052563-0ddba6da-611d-4387-97cc-0c64e0fb6a7e.gif)
 
-<h1 align="center">Hi 👋, I'm ShriKrushna Bhagwat</h1>
-<h3 align="center">Want to Take out Good Insights from DATA</h3>
-<center>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=krishna-nit&label=Profile%20views&color=0e75b6&style=flat" alt="krishna-nit" /> </p>
-
-</a> 
-</center>
-</p>
-
-- 🔭 I’m currently working on **JAVA DSA**
-
-- 👯 I’m looking to collaborate on **Few Projects**
-
-- 📫 How to reach me **krish30jan@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shrikrushna-bhagwat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shrikrushna-bhagwat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/krishna_it" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="krishna_it" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/krish30jan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="krish30jan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-
-
-
-
-
-
-
-
-<h2 align="center">🐦 Github Statistics </h2>
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan1910&theme=tokyonight" alt="kanchan1910" />
-<img src="https://github-readme-stats.vercel.app/api?username=kanchan1910&show_icons=true&hide_border=true&theme=tokyonight" alt="kanchan1910" />
-
-  
-</p>
-
-<br>  
-
-
-
-
-<p align="center">
-<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsushant12&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 # Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
 
-<img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/main.gif" width="300px" align="right"/>
+<img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="300px" align="right"/>
 
 
 - 👩‍🎓 I’m currently a Pre-final Year Computer Science and Engineering Undergraduate at NIT Raipur
@@ -140,4 +69,97 @@
   </tbody>
 </table>
 <br/>
+
+
+
+
+
+
+
+
+<h2 align="center">🐦 Github Statistics </h2>
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-nit&theme=tokyonight" alt="krishna-nit" />
+<img src="https://github-readme-stats.vercel.app/api?username=krishna-nit&show_icons=true&hide_border=true&theme=tokyonight" alt="krishna-nit" />
+
+  
+</p>
+
+<br>  
+
+
+
+
+<p align="center">
+<img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishna-nit&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+
+
+
+
+
+### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
+
+🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
+😋 I am passionate about **Web Development**. Currently learning **Docker** and **Kubernetes**. </br>
+👾 I like working with React, Node and PostgreSQL. </br>
+
+### My Experiences 🙌🏻
+- Open Source Contributor, [GSSOC '21](https://gssoc.girlscript.tech/) - Contributing to Open Source projects with a focus on the **React** and **Node** ecosystem.
+- [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
+- Technical Co-Head, [GeeksforGeeks Student Chapter](https://github.com/GeeksforGeeks-VIT-Bhopal/geeksforgeeks-vit-bhopal.github.io) - Working on technical aspect of the community and conducting workshops.
+- Web Lead, [Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars and contributed to **Open Source** projects along with team.
+- Game Developer and Founder, [Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ Downloads** on Google Play Store.
+- [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **Problem Solving**.
+
+
+
+
+
+
+
+Wanna know more? follow me on my socials:
+[![GitHub badge][]][GitHub handle]
+[![Twitter badge][]][Twitter handle]
+[![LinkedIn badge][]][LinkedIn handle]
+[![Codeforces badge][]][Codeforces handle]
+
+[Twitter badge]: https://img.shields.io/twitter/follow/werainkhatri.svg?style=social&label=Follow
+[Twitter handle]: https://twitter.com/intent/follow?screen_name=werainkhatri
+[GitHub badge]: https://img.shields.io/github/followers/werainkhatri?style=social
+[GitHub handle]: https://github.com/werainkhatri
+[LinkedIn handle]: https://linkedin.com/in/werainkhatri
+[LinkedIn badge]: https://img.shields.io/badge/LinkedIn-Connect-%230A66C2
+[Codeforces handle]: https://codeforces.com/profile/werainkhatri
+[Codeforces badge]: https://img.shields.io/badge/Codeforces-add%20to%20friends-%23C40017
+[Stats badge]: https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true&theme=dark
+[Stats link]: https://github.com/anuraghazra/github-readme-stats
+[Top Langs badge]: https://github-readme-stats.vercel.app/api/top-langs/?username=werainkhatri&layout=compact&show_icons=true&hide_border=true&theme=dark
+[Top Langs link]: https://github.com/anuraghazra/github-readme-stats
+
+
+
+
+
+
+<!-- Profile View Count and GitStats -->
+[![Github](https://img.shields.io/badge/-krishna-nit-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/krishna-nit)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
