@@ -77,7 +77,7 @@
 
 
 
-<h2 align="center">🐦 Github Statistics </h2>
+<h2 align="left">🐦 Github Statistics </h2>
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-nit&theme=tokyonight" alt="krishna-nit" />
@@ -119,42 +119,22 @@
 
 
 
+### Wanna know more? Connect me on:
 
-
-
-
-Wanna know more? follow me on my socials:
-[![GitHub badge][]][GitHub handle]
-[![Twitter badge][]][Twitter handle]
-[![LinkedIn badge][]][LinkedIn handle]
-[![Codeforces badge][]][Codeforces handle]
-
-[Twitter badge]: https://img.shields.io/twitter/follow/werainkhatri.svg?style=social&label=Follow
-[Twitter handle]: https://twitter.com/intent/follow?screen_name=werainkhatri
-[GitHub badge]: https://img.shields.io/github/followers/werainkhatri?style=social
-[GitHub handle]: https://github.com/werainkhatri
-[LinkedIn handle]: https://linkedin.com/in/werainkhatri
-[LinkedIn badge]: https://img.shields.io/badge/LinkedIn-Connect-%230A66C2
-[Codeforces handle]: https://codeforces.com/profile/werainkhatri
-[Codeforces badge]: https://img.shields.io/badge/Codeforces-add%20to%20friends-%23C40017
-[Stats badge]: https://github-readme-stats.vercel.app/api?username=werainkhatri&show_icons=true&hide_border=true&theme=dark
-[Stats link]: https://github.com/anuraghazra/github-readme-stats
-[Top Langs badge]: https://github-readme-stats.vercel.app/api/top-langs/?username=werainkhatri&layout=compact&show_icons=true&hide_border=true&theme=dark
-[Top Langs link]: https://github.com/anuraghazra/github-readme-stats
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<a href="https://twitter.com/Abhishe08346491" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/abhishek-sharma-aa06a9183/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/abhi.sensharma" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/abhisheks008" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a> 
+<a href = "mailto:sharma.abhishek1282000@gmail.com" target = "_blank">
+<img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</div>  
 
