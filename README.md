@@ -1,7 +1,7 @@
 ![Purple Modern Business Business Development Linkedin Banner Cover](https://user-images.githubusercontent.com/73196470/161052563-0ddba6da-611d-4387-97cc-0c64e0fb6a7e.gif)
 
 
-# Hi there, I am Anjali <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
+# Hi there, I am ShriKrushna <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
 
 <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="250px" align="right"/>
 
@@ -92,7 +92,7 @@
 
 ### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
 
-🎓 I am a **sophomore** year student at **Vellore Institute of Technology, Bhopal** pursuing my Bachelors in Computer Science Engineering. </br>
+🎓 I am a **pre final** year student at **National Institute of Technology, NIT Raipur** pursuing my Bachelors in Computer Science Engineering. </br>
 😋 I am passionate about **Web Development**. Currently learning **Docker** and **Kubernetes**. </br>
 👾 I like working with React, Node and PostgreSQL. </br>
 
