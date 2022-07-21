@@ -21,6 +21,14 @@
  <hr/>
  
  ## Tech Stack I'm Learning And Working With
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+ ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+ ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+ ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+ ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+ ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+ ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
  
  <table align="center">
   <tbody>
@@ -87,8 +95,6 @@
 </p>
 
 <br>  
-
-
 ### My Experiences 🙌🏻
 - Open Source Contributor, [GSSOC '21](https://gssoc.girlscript.tech/) - Contributing to Open Source projects with a focus on the **React** and **Node** ecosystem.
 - [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
