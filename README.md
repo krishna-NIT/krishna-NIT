@@ -1,7 +1,7 @@
 ![Purple Modern Business Business Development Linkedin Banner Cover](https://user-images.githubusercontent.com/73196470/161052563-0ddba6da-611d-4387-97cc-0c64e0fb6a7e.gif)
 
 
-# Hi there, I am ShriKrushna <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
+# Hi there, I am [ShriKrushna](https://www.linkedin.com/in/krishna-nit/) <img src="https://github.com/AnjaliPatle/AnjaliPatle/blob/main/Hi.gif" width="30px"> 
 
 <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="250px" align="right"/>
 
@@ -45,17 +45,7 @@
 
 <br>  
 
-### My Experiences 🙌🏻
-- Open Source Contributor, [GSSOC '21](https://gssoc.girlscript.tech/) - Contributing to Open Source projects with a focus on the **React** and **Node** ecosystem.
-- [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
-- Technical Co-Head, [GeeksforGeeks Student Chapter](https://github.com/GeeksforGeeks-VIT-Bhopal/geeksforgeeks-vit-bhopal.github.io) - Working on technical aspect of the community and conducting workshops.
-- Web Lead, [Developer Student Clubs](https://github.com/DSCVITBHOPAL/dscvitbhopal.github.io) - Conducted webinars and contributed to **Open Source** projects along with team.
-- Game Developer and Founder, [Twelfish](https://play.google.com/store/apps/dev?id=8640212175044390799&hl=en_IN&gl=US) - Developed **5+ Android Games** using C#, having over **1k+ Downloads** on Google Play Store.
-- [YouTuber](https://www.youtube.com/channel/UCNN-8t9vWnL0jydIHMr1KHg) - I make educational videos on **Problem Solving**.
-
-
-
-### Wanna know more? Connect me on:
+## Wanna know more? Connect me on:
 
 <a href="https://www.linkedin.com/in/krishna-nit/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
