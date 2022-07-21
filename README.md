@@ -34,61 +34,6 @@
  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
  
- <table align="center">
-  <tbody>
-    <tr valign="top">
-      <td width="10%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗥𝗲𝗮𝗰𝘁</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/react.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗠𝗼𝗻𝗴𝗼 𝗗𝗕</span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-      </td>
-       <td width="10%" align="center">
-        <span>𝗙𝗶𝗿𝗲𝗯𝗮𝘀𝗲</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/firebase.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗘𝘅𝗽𝗿𝗲𝘀𝘀</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/express.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗠𝗮𝘁𝗲𝗿𝗶𝗮𝗹-𝗨𝗜</span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/git.svg">
-      </td>
-      <td width="10%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
-<br/>
-
-
-
-
-
-
-
-
 <h2 align="left">🐦 Github Statistics </h2>
 <p align="center">
 
