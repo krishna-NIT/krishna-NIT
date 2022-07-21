@@ -7,7 +7,7 @@
 
 
 - 👨‍🎓 I’m currently a Pre-final Year Information Technology Undergraduate at NIT Raipur.
-- 👩‍💻 I enjoy analyzing and playing with data.
+- 👩‍💻 I enjoy playing and analyzing with data.
 - 🤝 I’m looking forward to working on data to help out with some good business decisions.
 - 🏆 I like to participate in Hackathons and build new projects
 
@@ -89,13 +89,6 @@
 <br>  
 
 
-
-### Hey I'm [Smit!](https://smitbarmase.github.io) 🚀
-
-🎓 I am a **pre final** year student at **National Institute of Technology, NIT Raipur** pursuing my Bachelors in Computer Science Engineering. </br>
-😋 I am passionate about **Web Development**. Currently learning **Docker** and **Kubernetes**. </br>
-👾 I like working with React, Node and PostgreSQL. </br>
-
 ### My Experiences 🙌🏻
 - Open Source Contributor, [GSSOC '21](https://gssoc.girlscript.tech/) - Contributing to Open Source projects with a focus on the **React** and **Node** ecosystem.
 - [OneStep-elecTRON](https://github.com/OneStep-elecTRON/onestep-electron.github.io) - Started a community-led, open-sourced, e-learning platform for **Machine Learning** and **Data Science**.
@@ -107,9 +100,7 @@
 
 
 ### Wanna know more? Connect me on:
-<a href="https://twitter.com/" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/krishna-nit/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
