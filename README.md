@@ -12,7 +12,7 @@
 - 🏆 I like to participate in Hackathons and build new projects
 
 
- ## Some Hackathons I've participated in 
+ ## 🚀 My Achievements
  - Selected for Finals of CodeUtsava NITRR 22
  - Rank 6 in HACKNITRR 22'
  - Top 20 Contributor in SWOC (Script Winter of Code) (Open Source)
