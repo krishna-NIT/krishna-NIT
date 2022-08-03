@@ -13,10 +13,10 @@
 
 
  ## 🚀 My Achievements
- - Selected for Finals of CodeUtsava NITRR 22
  - Rank 6 in HACKNITRR 22'
- - Top 20 Contributor in SWOC (Script Winter of Code) (Open Source)
+ - Among Top 20 Contributor in SWOC (Script Winter of Code) (Open Source)
  - Rank 138 out of 1100 Participants in GSSoC 2021
+ - Selected for Finals of CodeUtsava NITRR 22
  
  <hr/>
  
@@ -34,16 +34,13 @@
  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
  
-<h2 align="left">🐦 Github Statistics </h2>
+<h2 align="left">📊 Github Statistics </h2>
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krishna-nit&theme=tokyonight" alt="krishna-nit" />
 <img src="https://github-readme-stats.vercel.app/api?username=krishna-nit&show_icons=true&hide_border=true&theme=tokyonight" alt="krishna-nit" />
 
-  
 </p>
-
-<br>  
 
 ## Wanna know more? Connect me on:
 
