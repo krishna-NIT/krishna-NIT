@@ -6,10 +6,10 @@
 <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="250px" align="right"/>
 
 
-- 👨‍🎓 I’m currently a Final Year Information Technology Undergraduate at NIT Raipur.
+- 👨‍🎓 I’m currently a Final Year Information Technology undergrad at NIT Raipur.
 - 👩‍💻 I enjoy playing and analyzing with data.
 - 🤝 I’m looking forward to working on data to help out with some good business decisions.
-- 🏆 I like to participate in Hackathons and build new projects
+- 🏆 I like to participate in Hackathons and build new products
 
 
  ## 🚀 My Achievements
