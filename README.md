@@ -13,10 +13,11 @@
 
 
  ## 🚀 My Achievements
+ - Rank 3 in CodeUtsava 2023
  - Rank 6 in HACKNITRR 22'
  - Among Top 20 Contributor in SWOC (Script Winter of Code) (Open Source)
  - Rank 138 out of 1100 Participants in GSSoC 2021
- - Selected for Finals of CodeUtsava NITRR 22
+ - Selected for Finals of CodeUtsava NITRR 2022
  
  <hr/>
  
